@@ -3,7 +3,10 @@
     "username": "alexxandraSalazar",
     "email": "alexandrasalazar121205@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "alexandrasalazar.vercel.app"
+  },
+  "services": {
+    "vercel": "vc-domain-verify=alexandra.is-a.dev,c8a58aad1c7c9d2802c7"
   }
 }
