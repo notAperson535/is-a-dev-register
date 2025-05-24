@@ -4,7 +4,10 @@
     "username": "renskiedulog",
     "email": "renrendulog@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "renato-dulog.vercel.app"
+  },
+  "services": {
+    "vercel": "vc-domain-verify=renato-dulog.is-a.dev,eff46947abaf954087b7"
   }
 }
