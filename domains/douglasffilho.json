@@ -5,7 +5,10 @@
     "username": "douglasffilho",
     "email": "douglasf.filho@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": "douglasffilho.vercel.app"
+  },
+  "services": {
+    "vercel": "vc-domain-verify=douglasffilho.is-a.dev,1ddaee665ff2e14358f4"
   }
 }
