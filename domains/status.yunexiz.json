@@ -2,7 +2,7 @@
   "owner": {
     "username": "yunexiz"
   },
-  "record": {
-    "CNAME": "uptime-kuma-yunexiz.ladeapp.com"
+  "records": {
+    "CNAME": "uptime-kuma-beta.onrender.com"
   }
 }
