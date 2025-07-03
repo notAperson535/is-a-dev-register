@@ -2,7 +2,7 @@
   "owner": {
     "username": "yunexiz"
   },
-  "record": {
-    "CNAME": "personal-api-yunexiz.ladeapp.com"
+  "records": {
+    "CNAME": "yunexiz-api.onrender.com"
   }
 }
